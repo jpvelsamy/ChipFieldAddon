@@ -6,7 +6,7 @@
 
 	<groupId>com.flowingcode.vaadin.addons.chipfield</groupId>
 	<artifactId>chipfield-addon</artifactId>
-	<version>gamma4_2304dev_bubblet</version>
+	<version>jamun_24</version>
 	<name>ChipField Addon</name>
 	<description>Integration of paper-chip for Vaadin 14 as a field</description>
 
